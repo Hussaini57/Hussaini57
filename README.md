@@ -17,7 +17,7 @@ Front-end projects using **JavaScript**, **Tailwind CSS**, and **PHP**. I'm espe
 ### 🤝 I’m looking for help with  
 Improving my **JavaScript** (DOM manipulation, async/await, ES6+) and learning better integration with **backend APIs** using PHP/Symfony.
 ### ⚡ Fun fact  
-I love turning ideas into interactive websites — coding feels like magic that brings creativity to life!
+I enjoy solving bugs almost as much as solving puzzles — every error message is like a secret code waiting to be cracked!
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:e.ehsas2024@gmail.com) 
 
