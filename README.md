@@ -7,9 +7,7 @@
 - ### 🌱 I’m currently learning  
 - Advanced JavaScript (OOP, DOM, ES6+)
 - PHP with Symfony  
-- Docker basics  
-- French (preparing for TCF B1)
-
+- Docker basics 
 - 🌱 I’m currently learning 
 Front-end projects using **JavaScript**, **Tailwind CSS**, and **PHP**. I'm especially interested
 ### 🧑‍🤝‍🧑 I’m looking to collaborate on  
