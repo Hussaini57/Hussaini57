@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Esmatullah</h1>
-<h3 align="center">A passionate frontend developer from Afghanistann</h3>
+<h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussaini57&label=Profile%20views&color=0e75b6&style=flat" alt="hussaini57" /> </p>
 
